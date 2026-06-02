@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.impair {
+    background-color: #FFAAAA;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#two {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.add-font-size {
+    font-size: 24px;
+}
+
+#four {
+    background-color: #66ff77;
+    font-weight: bold;
+}
